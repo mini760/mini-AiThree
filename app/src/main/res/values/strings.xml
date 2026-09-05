@@ -1,1 +1,10 @@
-
+<resources>
+    <string name="app_name">Mini</string>
+    <string name="accessibility_service_label">Mini AI Agent</string>
+    <string name="accessibility_service_desc">Allows Mini to observe the screen and perform actions on your behalf.</string>
+    <string name="start_overlay">Start Mini Overlay</string>
+    <string name="stop_overlay">Stop Mini</string>
+    <string name="overlay_notification_channel_name">Mini Service</string>
+    <string name="overlay_notification_title">Mini is running</string>
+    <string name="overlay_notification_text">Tap to open settings</string>
+</resources>
