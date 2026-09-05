@@ -1,1 +1,5 @@
-# Default ProGuard rules
+-keepattributes *Annotation*, Signature, InnerClasses
+-keep class kotlinx.serialization.** { *; }
+-keepclassmembers class kotlinx.serialization.** { *; }
+-keep class com.nightshadow.mini.agent.Action { *; }
+-keep class com.nightshadow.mini.data.** { *; }
